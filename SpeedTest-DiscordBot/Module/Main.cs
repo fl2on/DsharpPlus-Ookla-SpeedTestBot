@@ -15,7 +15,7 @@ namespace SpeedTest_DiscordBot.Module
                     .WithUrl(result["Result URL"])
                     .AddField("Server: ", result["Server"].Replace("(id", ""))
                     .AddField("ISP: ", result["ISP"])
-                    .AddField("⚡️ Latency: ", result["Latency"])
+                    .AddField("⚡️ Latency: ", result["Latency"].Replace("(jitter", ""))
                     .AddField("⬇️ Download: ", result["Download"])
                     .AddField("⬆️ Upload: ", result["Upload"])
                     .AddField("〽️ Packet Loss: ", result["Packet Loss"])
