@@ -8,7 +8,6 @@
 
         public BotManager()
         {
-
             DiscordConfiguration dcfg = new()
             {
                 AutoReconnect = true,
