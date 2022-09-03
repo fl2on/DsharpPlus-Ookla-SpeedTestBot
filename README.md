@@ -1,4 +1,4 @@
-## Dsharpplus Ookla SpeedTest Bot
+## DsharpPlus Ookla SpeedTest Bot
 Test your internet speed using the ookla speedtest CLI but on discord.
 
 ## Screenshot
