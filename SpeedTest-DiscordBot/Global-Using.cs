@@ -3,6 +3,7 @@ global using DSharpPlus.CommandsNext;
 global using DSharpPlus.CommandsNext.Exceptions;
 global using DSharpPlus.Entities;
 global using DSharpPlus.EventArgs;
+global using DSharpPlus.CommandsNext.Attributes;
 global using DSharpPlus.Interactivity;
 global using DSharpPlus.Interactivity.Enums;
 global using DSharpPlus.Interactivity.EventHandling;
