@@ -1,5 +1,3 @@
-﻿using DSharpPlus.CommandsNext.Attributes;
-
 namespace SpeedTest_DiscordBot.Module
 {
     public class Main : BaseCommandModule
