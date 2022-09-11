@@ -26,7 +26,7 @@
                 result["Download"] = list_output[6].Replace("Download:", "").Trim();
                 result["Upload"] = list_output[8].Replace("Upload:", "").Trim();
                 result["Packet Loss"] = list_output[10].Replace("Packet Loss:", "").Trim();
-                result["Result URL"] = list_output[11].Replace("Result URL:", "").Trim();
+                result["Result URL"] = list_output[12].Replace("Result URL:", "").Trim();
             }
             catch (Exception)
             {
