@@ -3,11 +3,6 @@
 
 Test your internet speed using the ookla speedtest CLI but on discord.
 
-## Acknowledgements
-
- - [SpeedTest by Ookla](https://www.speedtest.net/)
-
-
 ## Features
 
 - SpeedTest
@@ -18,3 +13,7 @@ Test your internet speed using the ookla speedtest CLI but on discord.
 - Will show you your upload/download speeds.
 - Has a configuable name
 - Has a configiable icon
+
+## Acknowledgements
+
+ - [SpeedTest by Ookla](https://www.speedtest.net/)
